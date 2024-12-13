@@ -1,0 +1,685 @@
+sample_id,dataset,style,final_answer,final_answer_reversed
+1,Mor dataset,photorealistic,right,right
+1,other team dataset,171,right,right
+1,other team dataset,2772519796,right,right
+1,other team dataset,3892542136,right,right
+1,other team dataset,449300612,right,right
+1,VLM image dataset,anime,middle,middle
+1,VLM image dataset,paper cut,middle,middle
+1,VLM image dataset,sketched,right,middle
+10,Mor dataset,photorealistic,right,middle
+10,VLM image dataset,anime,middle,right
+10,VLM image dataset,paper cut,right,right
+10,VLM image dataset,sketched,right,right
+106,Mor dataset,photorealistic,middle,right
+106,other team dataset,171,middle,middle
+106,other team dataset,2772519796,right,right
+106,other team dataset,3892542136,right,right
+106,other team dataset,449300612,middle,right
+11,Mor dataset,photorealistic,middle,middle
+11,other team dataset,171,middle,right
+11,other team dataset,2772519796,middle,middle
+11,other team dataset,3892542136,middle,middle
+11,other team dataset,449300612,right,middle
+11,VLM image dataset,anime,middle,middle
+11,VLM image dataset,paper cut,middle,middle
+11,VLM image dataset,sketched,middle,middle
+111,Mor dataset,photorealistic,right,right
+113,Mor dataset,photorealistic,right,right
+116,Mor dataset,photorealistic,right,middle
+117,Mor dataset,photorealistic,right,right
+118,Mor dataset,photorealistic,right,right
+118,VLM image dataset,anime,right,middle
+118,VLM image dataset,paper cut,right,right
+118,VLM image dataset,photographed,right,right
+118,VLM image dataset,sketched,right,right
+119,Mor dataset,photorealistic,right,right
+12,Mor dataset,photorealistic,right,right
+12,VLM image dataset,anime,right,right
+12,VLM image dataset,paper cut,middle,middle
+12,VLM image dataset,sketched,right,right
+124,Mor dataset,photorealistic,right,middle
+127,Mor dataset,photorealistic,right,right
+13,Mor dataset,photorealistic,right,right
+131,Mor dataset,photorealistic,right,right
+132,Mor dataset,photorealistic,right,middle
+132,other team dataset,171,right,middle
+132,other team dataset,2772519796,right,right
+132,other team dataset,3892542136,right,right
+132,other team dataset,449300612,middle,right
+133,Mor dataset,photorealistic,right,right
+134,Mor dataset,photorealistic,middle,right
+136,VLM image dataset,anime,middle,middle
+136,VLM image dataset,paper cut,right,middle
+136,VLM image dataset,sketched,right,right
+14,Mor dataset,photorealistic,right,right
+140,Mor dataset,photorealistic,middle,right
+140,other team dataset,171,right,middle
+140,other team dataset,2772519796,middle,right
+140,other team dataset,3892542136,right,right
+140,other team dataset,449300612,middle,right
+141,Mor dataset,photorealistic,right,middle
+141,other team dataset,171,middle,right
+141,other team dataset,2772519796,right,right
+141,other team dataset,3892542136,right,right
+141,other team dataset,449300612,middle,right
+141,VLM image dataset,anime,middle,middle
+141,VLM image dataset,paper cut,middle,middle
+141,VLM image dataset,sketched,right,right
+145,Mor dataset,photorealistic,right,right
+149,Mor dataset,photorealistic,right,right
+149,VLM image dataset,anime,right,middle
+149,VLM image dataset,paper cut,right,right
+149,VLM image dataset,sketched,right,right
+15,Mor dataset,photorealistic,right,right
+150,Mor dataset,photorealistic,middle,middle
+153,Mor dataset,photorealistic,middle,right
+156,Mor dataset,photorealistic,right,right
+158,Mor dataset,photorealistic,right,right
+159,Mor dataset,photorealistic,right,middle
+16,Mor dataset,photorealistic,right,right
+16,VLM image dataset,anime,right,right
+16,VLM image dataset,paper cut,right,middle
+16,VLM image dataset,sketched,right,right
+162,Mor dataset,photorealistic,right,right
+162,other team dataset,171,right,right
+162,other team dataset,2772519796,right,right
+162,other team dataset,3892542136,right,middle
+162,other team dataset,449300612,right,right
+164,Mor dataset,photorealistic,right,right
+167,Mor dataset,photorealistic,right,right
+168,Mor dataset,photorealistic,right,right
+17,Mor dataset,photorealistic,right,right
+172,Mor dataset,photorealistic,right,right
+172,other team dataset,171,middle,right
+172,other team dataset,2772519796,right,right
+172,other team dataset,3892542136,right,right
+172,other team dataset,449300612,right,right
+172,VLM image dataset,anime,right,right
+172,VLM image dataset,paper cut,right,middle
+172,VLM image dataset,sketched,right,right
+174,Mor dataset,photorealistic,right,middle
+177,Mor dataset,photorealistic,right,right
+178,Mor dataset,photorealistic,middle,right
+178,other team dataset,171,right,right
+178,other team dataset,2772519796,right,right
+178,other team dataset,3892542136,right,right
+178,other team dataset,449300612,middle,middle
+179,Mor dataset,photorealistic,right,right
+18,Mor dataset,photorealistic,right,middle
+181,Mor dataset,photorealistic,right,right
+182,Mor dataset,photorealistic,middle,middle
+184,Mor dataset,photorealistic,right,right
+184,VLM image dataset,anime,right,right
+184,VLM image dataset,paper cut,right,right
+184,VLM image dataset,sketched,right,right
+187,Mor dataset,photorealistic,middle,middle
+187,other team dataset,171,right,middle
+187,other team dataset,2772519796,middle,right
+187,other team dataset,3892542136,middle,right
+187,other team dataset,449300612,middle,middle
+188,Mor dataset,photorealistic,right,middle
+189,Mor dataset,photorealistic,right,right
+189,VLM image dataset,anime,right,right
+189,VLM image dataset,paper cut,right,right
+189,VLM image dataset,sketched,right,right
+19,Mor dataset,photorealistic,right,right
+192,Mor dataset,photorealistic,right,right
+192,other team dataset,171,right,right
+192,other team dataset,2772519796,right,right
+192,other team dataset,3892542136,right,right
+192,other team dataset,449300612,right,right
+193,Mor dataset,photorealistic,middle,middle
+194,Mor dataset,photorealistic,right,right
+195,Mor dataset,photorealistic,right,right
+196,Mor dataset,photorealistic,right,right
+199,Mor dataset,photorealistic,middle,right
+199,other team dataset,171,middle,right
+199,other team dataset,2772519796,middle,right
+199,other team dataset,3892542136,right,right
+199,other team dataset,449300612,right,right
+199,VLM image dataset,anime,right,right
+199,VLM image dataset,paper cut,right,right
+199,VLM image dataset,sketched,right,right
+2,Mor dataset,photorealistic,middle,right
+20,Mor dataset,photorealistic,right,right
+20,VLM image dataset,anime,right,right
+20,VLM image dataset,paper cut,middle,middle
+20,VLM image dataset,sketched,middle,right
+200,Mor dataset,photorealistic,right,right
+204,Mor dataset,photorealistic,right,right
+205,Mor dataset,photorealistic,right,right
+205,other team dataset,171,right,right
+205,other team dataset,2772519796,middle,right
+205,other team dataset,3892542136,right,right
+205,other team dataset,449300612,right,right
+205,VLM image dataset,anime,right,right
+205,VLM image dataset,paper cut,middle,middle
+205,VLM image dataset,sketched,right,right
+208,Mor dataset,photorealistic,right,right
+21,Mor dataset,photorealistic,middle,right
+21,VLM image dataset,anime,middle,middle
+21,VLM image dataset,paper cut,right,middle
+21,VLM image dataset,sketched,middle,right
+212,Mor dataset,photorealistic,middle,right
+213,Mor dataset,photorealistic,right,right
+214,Mor dataset,photorealistic,right,middle
+217,Mor dataset,photorealistic,right,right
+218,Mor dataset,photorealistic,right,right
+219,Mor dataset,photorealistic,right,right
+22,Mor dataset,photorealistic,middle,middle
+22,VLM image dataset,anime,right,right
+22,VLM image dataset,paper cut,middle,middle
+22,VLM image dataset,sketched,middle,middle
+223,Mor dataset,photorealistic,right,middle
+227,Mor dataset,photorealistic,right,right
+228,Mor dataset,photorealistic,right,right
+229,Mor dataset,photorealistic,right,right
+23,Mor dataset,photorealistic,right,right
+23,other team dataset,171,right,right
+23,other team dataset,2772519796,right,middle
+23,other team dataset,3892542136,middle,middle
+23,other team dataset,449300612,right,right
+23,VLM image dataset,anime,middle,middle
+23,VLM image dataset,paper cut,right,middle
+23,VLM image dataset,sketched,middle,middle
+232,Mor dataset,photorealistic,right,right
+233,Mor dataset,photorealistic,right,right
+233,other team dataset,171,middle,right
+233,other team dataset,2772519796,right,right
+233,other team dataset,3892542136,right,right
+233,other team dataset,449300612,right,right
+234,Mor dataset,photorealistic,middle,right
+24,Mor dataset,photorealistic,middle,right
+24,other team dataset,171,right,right
+24,other team dataset,2772519796,right,right
+24,other team dataset,3892542136,middle,middle
+24,other team dataset,449300612,middle,middle
+24,VLM image dataset,anime,right,middle
+24,VLM image dataset,paper cut,right,middle
+24,VLM image dataset,photographed,right,middle
+24,VLM image dataset,sketched,right,right
+241,Mor dataset,photorealistic,right,right
+243,Mor dataset,photorealistic,right,right
+244,Mor dataset,photorealistic,right,right
+248,Mor dataset,photorealistic,right,right
+248,other team dataset,171,right,right
+248,other team dataset,2772519796,middle,right
+248,other team dataset,3892542136,middle,middle
+248,other team dataset,449300612,middle,middle
+248,VLM image dataset,anime,right,right
+248,VLM image dataset,paper cut,right,right
+248,VLM image dataset,sketched,middle,middle
+249,Mor dataset,photorealistic,middle,right
+25,Mor dataset,photorealistic,middle,right
+25,VLM image dataset,sketched,right,right
+251,Mor dataset,photorealistic,right,right
+256,Mor dataset,photorealistic,right,right
+257,Mor dataset,photorealistic,right,right
+258,Mor dataset,photorealistic,right,right
+26,Mor dataset,photorealistic,right,right
+260,Mor dataset,photorealistic,right,right
+263,Mor dataset,photorealistic,middle,right
+263,other team dataset,171,right,right
+263,other team dataset,2772519796,right,right
+263,other team dataset,3892542136,right,right
+263,other team dataset,449300612,right,right
+265,Mor dataset,photorealistic,right,right
+267,Mor dataset,photorealistic,right,right
+268,Mor dataset,photorealistic,right,middle
+268,other team dataset,171,right,middle
+268,other team dataset,2772519796,middle,middle
+268,other team dataset,3892542136,right,middle
+268,other team dataset,449300612,right,right
+27,Mor dataset,photorealistic,right,right
+270,Mor dataset,photorealistic,middle,right
+270,other team dataset,171,middle,middle
+270,other team dataset,2772519796,right,middle
+270,other team dataset,3892542136,middle,middle
+270,other team dataset,449300612,middle,middle
+271,Mor dataset,photorealistic,right,right
+272,Mor dataset,photorealistic,right,right
+272,other team dataset,171,right,middle
+272,other team dataset,2772519796,right,middle
+272,other team dataset,3892542136,right,right
+272,other team dataset,449300612,right,middle
+273,Mor dataset,photorealistic,middle,middle
+273,other team dataset,171,right,right
+273,other team dataset,2772519796,right,middle
+273,other team dataset,3892542136,right,right
+273,other team dataset,449300612,right,right
+274,Mor dataset,photorealistic,right,right
+274,other team dataset,171,right,right
+274,other team dataset,2772519796,right,right
+274,other team dataset,3892542136,right,right
+274,other team dataset,449300612,right,right
+275,Mor dataset,photorealistic,right,right
+276,Mor dataset,photorealistic,middle,middle
+276,VLM image dataset,anime,right,middle
+276,VLM image dataset,paper cut,right,right
+276,VLM image dataset,sketched,middle,middle
+277,Mor dataset,photorealistic,right,right
+278,Mor dataset,photorealistic,right,right
+278,other team dataset,171,right,right
+278,other team dataset,2772519796,right,right
+278,other team dataset,3892542136,right,right
+278,other team dataset,449300612,right,right
+279,Mor dataset,photorealistic,right,right
+279,other team dataset,171,right,right
+279,other team dataset,2772519796,right,right
+279,other team dataset,3892542136,right,middle
+279,other team dataset,449300612,right,right
+28,Mor dataset,photorealistic,middle,middle
+28,other team dataset,171,middle,right
+28,other team dataset,2772519796,middle,right
+28,other team dataset,3892542136,right,right
+28,other team dataset,449300612,middle,right
+28,VLM image dataset,anime,middle,middle
+28,VLM image dataset,paper cut,middle,middle
+28,VLM image dataset,sketched,middle,right
+280,Mor dataset,photorealistic,right,right
+281,Mor dataset,photorealistic,middle,right
+282,Mor dataset,photorealistic,right,right
+283,Mor dataset,photorealistic,right,right
+283,other team dataset,171,right,right
+283,other team dataset,2772519796,right,right
+283,other team dataset,3892542136,right,right
+283,other team dataset,449300612,right,right
+284,Mor dataset,photorealistic,middle,middle
+284,other team dataset,171,right,right
+284,other team dataset,2772519796,middle,middle
+284,other team dataset,3892542136,middle,right
+284,other team dataset,449300612,middle,middle
+285,Mor dataset,photorealistic,middle,right
+285,other team dataset,171,middle,right
+285,other team dataset,2772519796,middle,right
+285,other team dataset,3892542136,middle,middle
+285,other team dataset,449300612,right,right
+29,Mor dataset,photorealistic,right,middle
+290,Mor dataset,photorealistic,middle,middle
+290,other team dataset,171,middle,middle
+290,other team dataset,2772519796,middle,right
+290,other team dataset,3892542136,middle,middle
+290,other team dataset,449300612,middle,middle
+291,Mor dataset,photorealistic,right,middle
+292,Mor dataset,photorealistic,right,right
+292,other team dataset,171,right,right
+292,other team dataset,2772519796,right,right
+292,other team dataset,3892542136,right,right
+292,other team dataset,449300612,right,middle
+293,Mor dataset,photorealistic,right,right
+294,Mor dataset,photorealistic,middle,middle
+294,other team dataset,171,middle,right
+294,other team dataset,2772519796,middle,middle
+294,other team dataset,3892542136,right,right
+294,other team dataset,449300612,right,middle
+296,Mor dataset,photorealistic,middle,middle
+296,other team dataset,171,middle,middle
+296,other team dataset,2772519796,right,right
+296,other team dataset,3892542136,middle,middle
+296,other team dataset,449300612,middle,middle
+297,Mor dataset,photorealistic,right,right
+297,other team dataset,171,right,right
+297,other team dataset,2772519796,right,right
+297,other team dataset,3892542136,right,right
+297,other team dataset,449300612,right,right
+298,Mor dataset,photorealistic,right,right
+298,VLM image dataset,anime,middle,right
+298,VLM image dataset,paper cut,right,right
+298,VLM image dataset,sketched,middle,right
+299,Mor dataset,photorealistic,right,right
+299,other team dataset,171,right,middle
+299,other team dataset,2772519796,right,right
+299,other team dataset,3892542136,right,right
+299,other team dataset,449300612,right,right
+3,Mor dataset,photorealistic,middle,middle
+3,other team dataset,171,right,right
+3,other team dataset,2772519796,right,right
+3,other team dataset,3892542136,right,middle
+3,other team dataset,449300612,right,middle
+3,VLM image dataset,anime,right,right
+3,VLM image dataset,paper cut,right,right
+3,VLM image dataset,sketched,middle,middle
+30,Mor dataset,photorealistic,right,right
+30,other team dataset,171,middle,right
+30,other team dataset,2772519796,right,right
+30,other team dataset,3892542136,right,right
+30,other team dataset,449300612,right,right
+30,VLM image dataset,anime,middle,middle
+30,VLM image dataset,paper cut,middle,middle
+30,VLM image dataset,photographed,right,right
+30,VLM image dataset,sketched,middle,middle
+300,Mor dataset,photorealistic,middle,middle
+307,Mor dataset,photorealistic,right,right
+308,Mor dataset,photorealistic,right,right
+309,Mor dataset,photorealistic,right,right
+309,other team dataset,171,right,right
+309,other team dataset,2772519796,right,right
+309,other team dataset,3892542136,right,right
+309,other team dataset,449300612,right,right
+309,VLM image dataset,anime,right,middle
+309,VLM image dataset,paper cut,right,right
+309,VLM image dataset,sketched,right,right
+31,Mor dataset,photorealistic,right,right
+31,other team dataset,171,right,middle
+31,other team dataset,2772519796,middle,right
+31,other team dataset,3892542136,middle,middle
+31,other team dataset,449300612,middle,middle
+310,Mor dataset,photorealistic,right,right
+310,VLM image dataset,anime,right,middle
+310,VLM image dataset,paper cut,right,right
+310,VLM image dataset,sketched,right,middle
+311,Mor dataset,photorealistic,right,right
+311,VLM image dataset,anime,middle,middle
+311,VLM image dataset,paper cut,right,right
+311,VLM image dataset,sketched,right,right
+312,Mor dataset,photorealistic,right,right
+312,VLM image dataset,anime,middle,middle
+312,VLM image dataset,paper cut,right,right
+312,VLM image dataset,sketched,right,right
+313,Mor dataset,photorealistic,middle,right
+313,VLM image dataset,anime,middle,middle
+313,VLM image dataset,paper cut,middle,middle
+313,VLM image dataset,sketched,middle,right
+314,Mor dataset,photorealistic,middle,middle
+314,VLM image dataset,anime,right,right
+314,VLM image dataset,paper cut,middle,right
+314,VLM image dataset,sketched,right,right
+315,Mor dataset,photorealistic,right,middle
+315,VLM image dataset,anime,right,right
+315,VLM image dataset,paper cut,right,right
+315,VLM image dataset,sketched,right,right
+316,Mor dataset,photorealistic,right,right
+317,Mor dataset,photorealistic,right,right
+317,other team dataset,171,right,right
+317,other team dataset,2772519796,right,right
+317,other team dataset,3892542136,right,right
+317,other team dataset,449300612,right,right
+318,Mor dataset,photorealistic,right,right
+319,Mor dataset,photorealistic,right,right
+319,other team dataset,171,right,right
+319,other team dataset,2772519796,right,right
+319,other team dataset,3892542136,right,right
+319,other team dataset,449300612,right,right
+32,Mor dataset,photorealistic,right,right
+32,other team dataset,171,right,right
+32,other team dataset,2772519796,right,right
+32,other team dataset,3892542136,right,right
+32,other team dataset,449300612,right,middle
+320,Mor dataset,photorealistic,middle,right
+320,VLM image dataset,anime,middle,middle
+320,VLM image dataset,paper cut,right,right
+320,VLM image dataset,sketched,right,right
+321,Mor dataset,photorealistic,right,right
+322,Mor dataset,photorealistic,right,right
+323,Mor dataset,photorealistic,middle,right
+323,other team dataset,171,right,right
+323,other team dataset,2772519796,right,right
+323,other team dataset,3892542136,right,right
+323,other team dataset,449300612,right,right
+324,Mor dataset,photorealistic,middle,middle
+325,Mor dataset,photorealistic,right,right
+326,Mor dataset,photorealistic,right,right
+327,Mor dataset,photorealistic,right,right
+328,Mor dataset,photorealistic,right,right
+329,Mor dataset,photorealistic,right,middle
+33,Mor dataset,photorealistic,middle,middle
+33,other team dataset,171,right,right
+33,other team dataset,2772519796,right,middle
+33,other team dataset,3892542136,right,right
+33,other team dataset,449300612,right,middle
+330,Mor dataset,photorealistic,middle,middle
+331,Mor dataset,photorealistic,right,middle
+332,Mor dataset,photorealistic,right,right
+332,other team dataset,171,right,right
+332,other team dataset,2772519796,right,right
+332,other team dataset,3892542136,right,right
+332,other team dataset,449300612,right,right
+333,Mor dataset,photorealistic,right,right
+334,Mor dataset,photorealistic,right,middle
+335,Mor dataset,photorealistic,middle,middle
+336,Mor dataset,photorealistic,middle,middle
+337,Mor dataset,photorealistic,right,right
+338,Mor dataset,photorealistic,right,right
+339,Mor dataset,photorealistic,middle,middle
+34,Mor dataset,photorealistic,middle,middle
+34,VLM image dataset,anime,right,right
+34,VLM image dataset,paper cut,middle,middle
+34,VLM image dataset,sketched,middle,right
+340,Mor dataset,photorealistic,right,right
+341,Mor dataset,photorealistic,right,right
+342,Mor dataset,photorealistic,right,right
+342,other team dataset,171,right,right
+342,other team dataset,2772519796,right,right
+342,other team dataset,3892542136,right,middle
+342,other team dataset,449300612,right,right
+343,Mor dataset,photorealistic,right,right
+344,Mor dataset,photorealistic,middle,middle
+344,VLM image dataset,anime,middle,middle
+344,VLM image dataset,paper cut,right,right
+344,VLM image dataset,sketched,middle,middle
+345,Mor dataset,photorealistic,right,right
+345,other team dataset,171,middle,right
+345,other team dataset,2772519796,right,right
+345,other team dataset,3892542136,right,right
+345,other team dataset,449300612,right,right
+345,VLM image dataset,anime,right,right
+345,VLM image dataset,paper cut,middle,middle
+345,VLM image dataset,sketched,right,middle
+346,Mor dataset,photorealistic,right,right
+347,Mor dataset,photorealistic,middle,middle
+348,Mor dataset,photorealistic,right,middle
+348,other team dataset,171,middle,middle
+348,other team dataset,2772519796,right,right
+348,other team dataset,3892542136,middle,middle
+348,other team dataset,449300612,right,middle
+349,Mor dataset,photorealistic,middle,middle
+35,Mor dataset,photorealistic,middle,right
+350,Mor dataset,photorealistic,middle,right
+351,VLM image dataset,anime,right,right
+351,VLM image dataset,paper cut,right,right
+351,VLM image dataset,photographed,middle,right
+351,VLM image dataset,photorealistic,right,right
+351,VLM image dataset,sketched,right,right
+352,VLM image dataset,anime,right,right
+352,VLM image dataset,paper cut,right,right
+352,VLM image dataset,photographed,right,right
+352,VLM image dataset,photorealistic,right,right
+352,VLM image dataset,sketched,right,right
+353,VLM image dataset,anime,right,right
+353,VLM image dataset,paper cut,middle,right
+353,VLM image dataset,photographed,right,right
+353,VLM image dataset,photorealistic,middle,right
+353,VLM image dataset,sketched,right,right
+354,VLM image dataset,anime,right,right
+354,VLM image dataset,paper cut,right,right
+354,VLM image dataset,photographed,right,right
+354,VLM image dataset,photorealistic,right,right
+354,VLM image dataset,sketched,right,right
+355,VLM image dataset,anime,middle,right
+355,VLM image dataset,paper cut,middle,middle
+355,VLM image dataset,photographed,right,right
+355,VLM image dataset,photorealistic,middle,middle
+355,VLM image dataset,sketched,middle,middle
+356,VLM image dataset,anime,right,right
+356,VLM image dataset,paper cut,middle,middle
+356,VLM image dataset,photographed,right,right
+356,VLM image dataset,photorealistic,middle,middle
+356,VLM image dataset,sketched,right,right
+357,VLM image dataset,anime,right,right
+357,VLM image dataset,paper cut,right,right
+357,VLM image dataset,photographed,right,right
+357,VLM image dataset,photorealistic,right,right
+357,VLM image dataset,sketched,right,right
+358,VLM image dataset,anime,middle,middle
+358,VLM image dataset,paper cut,middle,middle
+358,VLM image dataset,photographed,right,right
+358,VLM image dataset,photorealistic,right,middle
+358,VLM image dataset,sketched,right,right
+36,Mor dataset,photorealistic,right,right
+36,VLM image dataset,anime,middle,right
+36,VLM image dataset,paper cut,right,right
+36,VLM image dataset,sketched,right,right
+37,Mor dataset,photorealistic,right,right
+37,VLM image dataset,anime,middle,middle
+37,VLM image dataset,paper cut,middle,right
+37,VLM image dataset,sketched,right,right
+38,Mor dataset,photorealistic,right,right
+38,VLM image dataset,anime,middle,middle
+38,VLM image dataset,paper cut,middle,right
+38,VLM image dataset,sketched,right,middle
+39,Mor dataset,photorealistic,right,right
+39,VLM image dataset,anime,right,right
+39,VLM image dataset,paper cut,middle,middle
+39,VLM image dataset,sketched,right,right
+4,Mor dataset,photorealistic,right,right
+4,VLM image dataset,anime,middle,middle
+4,VLM image dataset,paper cut,middle,middle
+4,VLM image dataset,sketched,right,right
+40,Mor dataset,photorealistic,right,right
+41,Mor dataset,photorealistic,right,right
+41,other team dataset,171,right,middle
+41,other team dataset,2772519796,right,right
+41,other team dataset,3892542136,middle,right
+41,other team dataset,449300612,middle,middle
+42,Mor dataset,photorealistic,middle,middle
+42,other team dataset,171,right,right
+42,other team dataset,2772519796,middle,middle
+42,other team dataset,3892542136,right,middle
+42,other team dataset,449300612,middle,right
+44,Mor dataset,photorealistic,right,right
+45,Mor dataset,photorealistic,right,right
+46,Mor dataset,photorealistic,right,right
+47,Mor dataset,photorealistic,right,middle
+47,VLM image dataset,anime,right,right
+47,VLM image dataset,paper cut,right,middle
+47,VLM image dataset,photographed,right,right
+47,VLM image dataset,sketched,right,middle
+48,Mor dataset,photorealistic,right,right
+49,Mor dataset,photorealistic,right,right
+5,Mor dataset,photorealistic,right,right
+50,Mor dataset,photorealistic,right,right
+50,other team dataset,171,middle,right
+50,other team dataset,2772519796,right,middle
+50,other team dataset,3892542136,middle,middle
+50,other team dataset,449300612,middle,middle
+50,VLM image dataset,anime,middle,middle
+50,VLM image dataset,paper cut,middle,middle
+50,VLM image dataset,sketched,middle,middle
+51,Mor dataset,photorealistic,right,middle
+51,other team dataset,171,right,middle
+51,other team dataset,2772519796,right,middle
+51,other team dataset,3892542136,middle,right
+51,other team dataset,449300612,middle,right
+51,VLM image dataset,anime,middle,middle
+51,VLM image dataset,paper cut,right,right
+51,VLM image dataset,photographed,right,right
+51,VLM image dataset,sketched,middle,middle
+52,Mor dataset,photorealistic,middle,right
+52,other team dataset,171,right,middle
+52,other team dataset,2772519796,right,middle
+52,other team dataset,3892542136,right,right
+52,other team dataset,449300612,middle,middle
+53,Mor dataset,photorealistic,right,right
+53,other team dataset,171,right,right
+53,other team dataset,2772519796,right,right
+53,other team dataset,3892542136,right,right
+53,other team dataset,449300612,middle,right
+53,VLM image dataset,anime,middle,right
+53,VLM image dataset,paper cut,middle,middle
+53,VLM image dataset,sketched,right,right
+54,Mor dataset,photorealistic,right,right
+54,VLM image dataset,anime,middle,middle
+54,VLM image dataset,paper cut,right,middle
+54,VLM image dataset,sketched,right,right
+55,Mor dataset,photorealistic,right,right
+55,other team dataset,171,middle,right
+55,other team dataset,2772519796,right,right
+55,other team dataset,3892542136,right,right
+55,other team dataset,449300612,right,middle
+56,Mor dataset,photorealistic,right,right
+56,VLM image dataset,anime,right,right
+56,VLM image dataset,paper cut,middle,right
+56,VLM image dataset,sketched,right,middle
+57,Mor dataset,photorealistic,middle,right
+58,Mor dataset,photorealistic,middle,middle
+58,VLM image dataset,anime,middle,middle
+58,VLM image dataset,paper cut,middle,middle
+58,VLM image dataset,sketched,right,right
+59,Mor dataset,photorealistic,right,middle
+6,Mor dataset,photorealistic,middle,middle
+60,Mor dataset,photorealistic,right,middle
+63,Mor dataset,photorealistic,right,right
+63,other team dataset,171,right,right
+63,other team dataset,2772519796,middle,right
+63,other team dataset,3892542136,middle,right
+63,other team dataset,449300612,right,right
+63,other team dataset,photorealistic,right,right
+63,VLM image dataset,anime,middle,right
+63,VLM image dataset,paper cut,right,right
+63,VLM image dataset,photographed,right,middle
+63,VLM image dataset,sketched,middle,right
+64,Mor dataset,photorealistic,right,middle
+66,Mor dataset,photorealistic,right,right
+66,other team dataset,171,middle,right
+66,other team dataset,2772519796,middle,middle
+66,other team dataset,3892542136,right,middle
+66,other team dataset,449300612,right,right
+67,Mor dataset,photorealistic,right,right
+68,Mor dataset,photorealistic,right,right
+69,Mor dataset,photorealistic,right,right
+7,Mor dataset,photorealistic,middle,middle
+7,other team dataset,171,middle,right
+7,other team dataset,2772519796,right,middle
+7,other team dataset,3892542136,right,middle
+7,other team dataset,449300612,middle,middle
+7,VLM image dataset,anime,right,right
+7,VLM image dataset,paper cut,right,right
+7,VLM image dataset,sketched,right,right
+70,Mor dataset,photorealistic,right,right
+71,Mor dataset,photorealistic,right,right
+72,Mor dataset,photorealistic,middle,middle
+72,other team dataset,171,right,middle
+72,other team dataset,2772519796,middle,right
+72,other team dataset,3892542136,middle,right
+72,other team dataset,449300612,middle,right
+73,Mor dataset,photorealistic,right,middle
+76,Mor dataset,photorealistic,right,right
+78,VLM image dataset,anime,middle,middle
+78,VLM image dataset,paper cut,right,right
+78,VLM image dataset,sketched,middle,right
+79,Mor dataset,photorealistic,middle,middle
+8,Mor dataset,photorealistic,right,right
+8,VLM image dataset,anime,right,right
+8,VLM image dataset,paper cut,middle,middle
+8,VLM image dataset,photographed,right,right
+8,VLM image dataset,sketched,right,right
+83,Mor dataset,photorealistic,right,right
+84,Mor dataset,photorealistic,right,right
+84,VLM image dataset,anime,right,right
+84,VLM image dataset,paper cut,right,middle
+84,VLM image dataset,photographed,middle,right
+84,VLM image dataset,sketched,right,right
+85,Mor dataset,photorealistic,right,right
+86,Mor dataset,photorealistic,middle,right
+86,VLM image dataset,anime,middle,right
+86,VLM image dataset,paper cut,right,right
+86,VLM image dataset,photographed,right,right
+86,VLM image dataset,sketched,middle,right
+87,Mor dataset,photorealistic,middle,middle
+87,VLM image dataset,anime,middle,right
+87,VLM image dataset,paper cut,middle,right
+87,VLM image dataset,sketched,middle,right
+88,Mor dataset,photorealistic,right,right
+9,Mor dataset,photorealistic,right,right
+90,Mor dataset,photorealistic,right,right
+92,Mor dataset,photorealistic,right,right
+92,other team dataset,171,right,right
+92,other team dataset,2772519796,right,right
+92,other team dataset,3892542136,right,right
+92,other team dataset,449300612,right,right
+93,Mor dataset,photorealistic,middle,right
+99,Mor dataset,photorealistic,right,right
+99,VLM image dataset,anime,right,right
+99,VLM image dataset,paper cut,right,right
+99,VLM image dataset,sketched,right,right
